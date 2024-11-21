@@ -1,5 +1,7 @@
 # Treasure Game RL
 
+![game_view](game_view.png)
+
 ### Prerequisites
 ```pip install -r requiremnts.txt```
 
